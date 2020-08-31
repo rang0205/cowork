@@ -9,5 +9,12 @@
 </head>
 <body>
 	<h1>CoCoCo</h1>
+
+	<!-- A start -->
+	<p>kimnamsun</p>
+	<!-- A end -->
+	
+	<p>Kim Seung Yeon</p>
+
 </body>
 </html>
