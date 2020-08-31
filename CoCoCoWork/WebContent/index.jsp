@@ -9,5 +9,7 @@
 </head>
 <body>
 	<h1>CoCoCo</h1>
+	
+	<p>Kim Seung Yeon</p>
 </body>
 </html>
